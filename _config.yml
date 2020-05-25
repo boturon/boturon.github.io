@@ -1,0 +1,60 @@
+title: KC Economics of Education 
+author:
+  name: Nova SBE, KC Economics of Education
+  email: <a>&#x65;&#x63;&#x6f;&#x6e;&#x6f;&#x6d;&#x69;&#x63;&#x73;&#x6f;&#x66;&#x65;&#x64;&#x75;&#x63;&#x61;&#x74;&#x69;&#x6f;&#x6e;&#x40;&#x6e;&#x6f;&#x76;&#x61;&#x73;&#x62;&#x65;&#x2e;&#x70;&#x74;
+description: > # this means to ignore newlines until "show_excerpts:"
+  write an awesome description for your new site here. you can edit this
+  line in _config.yml. it will appear in your document head meta (for
+  google search results) and in your feed.xml site description.
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# minima date formatt
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %y"
+
+  # generate social links in footer
+  social_links:
+    #twitter: jekyllrb
+    github:  KC-Economics-of-Education
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: uc8cxr0-3i70i1tfpg1pae1g
+    # youtube_channel_name: cloudcannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+
+    # mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+    # gitlab instances
+    # gitlab:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# if you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - team.md
+
+# build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
