@@ -332,7 +332,6 @@ Entre as três categorias propostas, a representatividade de cada uma é constan
 <h2 id="3">3. Professores</h2>
 
 Apenas os professores associados às turmas do projeto IoTP preencheram um inquérito presencial no qual foram questionados sobre a sua motivação e valorização profissional.
-Escola
 
 <br>
 
