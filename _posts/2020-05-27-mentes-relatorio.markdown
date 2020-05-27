@@ -268,7 +268,6 @@ Apenas 5 concelhos tiveram mais do que uma escola associada aos projectos: Porta
 
 <br>
 
-
 <figure style="text-align:center">
     <img src="/assets/mentes-relatorio/form_date.png">
     <figcaption><em>Número de estudantes que participaram nos projetos</em></figcaption>
@@ -334,6 +333,7 @@ Entre as três categorias propostas, a representatividade de cada uma é constan
 
 Apenas os professores associados às turmas do projeto IoTP preencheram um inquérito presencial no qual foram questionados sobre a sua motivação e valorização profissional.
 Escola
+
 <br>
 
 <figure style="text-align:center">
