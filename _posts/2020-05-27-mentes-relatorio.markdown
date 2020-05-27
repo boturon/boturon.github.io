@@ -332,11 +332,12 @@ Entre as três categorias propostas, a representatividade de cada uma é constan
 <h2 id="3">3. Professores</h2>
 
 Apenas os professores associados às turmas do projeto IoTP preencheram um inquérito presencial no qual foram questionados sobre a sua motivação e valorização profissional.
+Escola
 
 <br>
 
 <figure style="text-align:center">
-    <table border="1" class="dataframe">
+    <table style="border:1px solid black;margin-left:auto;margin-right:auto;" class="dataframe">
       <thead>
         <tr style="text-align: right;">
           <th>Respostas</th>
@@ -372,7 +373,7 @@ Os professores que pertenciam aos conselhos de turma - independetemente do proje
 
 
 <h2 id="4">4. Encarregados de educação</h2>
-
+Escola
 Os encarregado de educação dos estudantes envolvidos no projeto IoTP receberam um inquérito de 16 páginas em papel.
 
 <br>
