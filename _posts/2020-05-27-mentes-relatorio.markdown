@@ -37,204 +37,200 @@ As visitas às escolas começaram no dia 8 de janeiro de 2020.
 <br>
     
 
-<figure style="text-align:center">
-    <table border="1" class="dataframe" style="text-align: right;">
-      <thead>
-        <tr style="text-align: right;">
-          <th>Escola</th>
-          <th>Turmas</th>
-          <th>Data(s)</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <th>Escola Básica Cidade de Castelo Branco, Castelo Branco</th>
-          <td>7A, 8B, 8D</td>
-          <td>2020-01-20</td>
-        </tr>
-        <tr>
-          <th>Escola Básica Corga do Lobão, Santa Maria da Feira</th>
-          <td>7D, 8D, 9C</td>
-          <td>2020-02-10</td>
-        </tr>
-        <tr>
-          <th>Escola Básica Dr. Acácio de Azevedo, Oliveira do Bairro</th>
-          <td>7A, 8A, 8C</td>
-          <td>2020-02-20</td>
-        </tr>
-        <tr>
-          <th>Escola Básica Dr. Fernando Peixinho, Oiã, Oliveira do Bairro</th>
-          <td>8J, 9H, 9I</td>
-          <td>2020-02-20</td>
-        </tr>
-        <tr>
-          <th>Escola Básica Pedro Ferreiro, Ferreira do Zêzere</th>
-          <td>7A, 7B, 7C, 7D</td>
-          <td>2020-02-18, 2020-02-20</td>
-        </tr>
-        <tr>
-          <th>Escola Básica Professor Doutor António Sena Faria de Vasconcelos, Castelo Branco</th>
-          <td>7A, 7B, 7C</td>
-          <td>2020-01-20, 2020-02-04</td>
-        </tr>
-        <tr>
-          <th>Escola Básica Professor Mendes Ferrão, Coja, Arganil</th>
-          <td>7A, 8A, 9A</td>
-          <td>2020-01-16</td>
-        </tr>
-        <tr>
-          <th>Escola Básica da Abelheira, Viana do Castelo</th>
-          <td>7B, 8B, 8C</td>
-          <td>2020-01-08</td>
-        </tr>
-        <tr>
-          <th>Escola Básica de Argoncilhe, Santa Maria da Feira</th>
-          <td>7B, 7E, 8B</td>
-          <td>2020-01-20, 2020-01-23, 2020-01-28</td>
-        </tr>
-        <tr>
-          <th>Escola Básica de Briteiros, Guimarães</th>
-          <td>7D, 8A, 9C</td>
-          <td>2020-02-27</td>
-        </tr>
-        <tr>
-          <th>Escola Básica de Freixo, Ponte de Lima</th>
-          <td>8A, 9B, 9D</td>
-          <td>2020-02-28</td>
-        </tr>
-        <tr>
-          <th>Escola Básica de Gandarela, Celorico de Basto</th>
-          <td>8F, 9D, 9E</td>
-          <td>2020-02-13</td>
-        </tr>
-        <tr>
-          <th>Escola Básica e Secundária Dr. Manuel Ribeiro Ferreira, Alvaiázere</th>
-          <td>7A, 7B, 7C</td>
-          <td>2020-01-16, 2020-01-22, 2020-02-03</td>
-        </tr>
-        <tr>
-          <th>Escola Básica e Secundária de Castelo de Paiva</th>
-          <td>7C, 7D, 7E</td>
-          <td>2020-01-27, 2020-01-28</td>
-        </tr>
-        <tr>
-          <th>Escola Básica n.º 2 de Arganil, Arganil</th>
-          <td>7A, 8C, 9B</td>
-          <td>2020-01-17</td>
-        </tr>
-        <tr>
-          <th>Escola Secundária Júlio Dinis, Ovar</th>
-          <td>7A, 8C, 9C</td>
-          <td>2020-01-29</td>
-        </tr>
-        <tr>
-          <th>Externato Capitão Santiago de Carvalho, Fundão</th>
-          <td>7A, 8A, 9A</td>
-          <td>2020-01-14</td>
-        </tr>
-      </tbody>
-    </table>
-    <figcaption><em>Turmas visitadas em cada escola pelo projecto IoTP</em></figcaption>
-</figure>
-
+<table border="1" class="dataframe" style="text-align: right;">
+  <caption><em>Turmas visitadas em cada escola pelo projecto IoTP</em></caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Escola</th>
+      <th>Turmas</th>
+      <th>Data(s)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Escola Básica Cidade de Castelo Branco, Castelo Branco</th>
+      <td>7A, 8B, 8D</td>
+      <td>2020-01-20</td>
+    </tr>
+    <tr>
+      <th>Escola Básica Corga do Lobão, Santa Maria da Feira</th>
+      <td>7D, 8D, 9C</td>
+      <td>2020-02-10</td>
+    </tr>
+    <tr>
+      <th>Escola Básica Dr. Acácio de Azevedo, Oliveira do Bairro</th>
+      <td>7A, 8A, 8C</td>
+      <td>2020-02-20</td>
+    </tr>
+    <tr>
+      <th>Escola Básica Dr. Fernando Peixinho, Oiã, Oliveira do Bairro</th>
+      <td>8J, 9H, 9I</td>
+      <td>2020-02-20</td>
+    </tr>
+    <tr>
+      <th>Escola Básica Pedro Ferreiro, Ferreira do Zêzere</th>
+      <td>7A, 7B, 7C, 7D</td>
+      <td>2020-02-18, 2020-02-20</td>
+    </tr>
+    <tr>
+      <th>Escola Básica Professor Doutor António Sena Faria de Vasconcelos, Castelo Branco</th>
+      <td>7A, 7B, 7C</td>
+      <td>2020-01-20, 2020-02-04</td>
+    </tr>
+    <tr>
+      <th>Escola Básica Professor Mendes Ferrão, Coja, Arganil</th>
+      <td>7A, 8A, 9A</td>
+      <td>2020-01-16</td>
+    </tr>
+    <tr>
+      <th>Escola Básica da Abelheira, Viana do Castelo</th>
+      <td>7B, 8B, 8C</td>
+      <td>2020-01-08</td>
+    </tr>
+    <tr>
+      <th>Escola Básica de Argoncilhe, Santa Maria da Feira</th>
+      <td>7B, 7E, 8B</td>
+      <td>2020-01-20, 2020-01-23, 2020-01-28</td>
+    </tr>
+    <tr>
+      <th>Escola Básica de Briteiros, Guimarães</th>
+      <td>7D, 8A, 9C</td>
+      <td>2020-02-27</td>
+    </tr>
+    <tr>
+      <th>Escola Básica de Freixo, Ponte de Lima</th>
+      <td>8A, 9B, 9D</td>
+      <td>2020-02-28</td>
+    </tr>
+    <tr>
+      <th>Escola Básica de Gandarela, Celorico de Basto</th>
+      <td>8F, 9D, 9E</td>
+      <td>2020-02-13</td>
+    </tr>
+    <tr>
+      <th>Escola Básica e Secundária Dr. Manuel Ribeiro Ferreira, Alvaiázere</th>
+      <td>7A, 7B, 7C</td>
+      <td>2020-01-16, 2020-01-22, 2020-02-03</td>
+    </tr>
+    <tr>
+      <th>Escola Básica e Secundária de Castelo de Paiva</th>
+      <td>7C, 7D, 7E</td>
+      <td>2020-01-27, 2020-01-28</td>
+    </tr>
+    <tr>
+      <th>Escola Básica n.º 2 de Arganil, Arganil</th>
+      <td>7A, 8C, 9B</td>
+      <td>2020-01-17</td>
+    </tr>
+    <tr>
+      <th>Escola Secundária Júlio Dinis, Ovar</th>
+      <td>7A, 8C, 9C</td>
+      <td>2020-01-29</td>
+    </tr>
+    <tr>
+      <th>Externato Capitão Santiago de Carvalho, Fundão</th>
+      <td>7A, 8A, 9A</td>
+      <td>2020-01-14</td>
+    </tr>
+  </tbody>
+</table>
+    
 <br>
 
 
-<figure style="text-align:center">
-    <table border="1" class="dataframe" style="text-align: right;">
-      <thead>
-        <tr style="text-align: right;">
-          <th>Escola</th>
-          <th>Turmas</th>
-          <th>Data(s)</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <th>Agrupamento de Escolas de Vale de Ovil, Baião</th>
-          <td>10E, 10F, 10G, 10H</td>
-          <td>2020-01-17</td>
-        </tr>
-        <tr>
-          <th>Escola Básica e Secundária Cunha Rivara, Arraiolos</th>
-          <td>10A, 10B</td>
-          <td>2020-01-30</td>
-        </tr>
-        <tr>
-          <th>Escola Secundária Carlos Amarante, Braga</th>
-          <td>10G, 10L, 10PEAC, 10PM, 10TD, 10TPI</td>
-          <td>2020-01-14</td>
-        </tr>
-        <tr>
-          <th>Escola Secundária D.Sancho II, Elvas</th>
-          <td>10H, 10I, 10J, 10L</td>
-          <td>2020-01-09</td>
-        </tr>
-        <tr>
-          <th>Escola Secundária José Régio, Vila do Conde</th>
-          <td>10CT2, 10CT6, 10LH3, 10SE1</td>
-          <td>2020-01-22</td>
-        </tr>
-        <tr>
-          <th>Escola Secundária Mouzinho da Silveira, Portalegre</th>
-          <td>10C, 10D</td>
-          <td>2020-01-23</td>
-        </tr>
-        <tr>
-          <th>Escola Secundária S.Lourenço, Portalegre</th>
-          <td>10A, 10B</td>
-          <td>2020-01-24</td>
-        </tr>
-        <tr>
-          <th>Escola Secundária da Azambuja, Azambuja</th>
-          <td>10A, 10B, 10C/10D, 10E, 10F, TOSORT</td>
-          <td>2020-02-17</td>
-        </tr>
-        <tr>
-          <th>Escola Secundária de Aljustrel, Aljustrel</th>
-          <td>101A, 104A</td>
-          <td>2020-01-21</td>
-        </tr>
-        <tr>
-          <th>Escola Secundária de Alpendorada, Marco de Canaveses</th>
-          <td>10D, 10E, 10TUR, 10TURTIE</td>
-          <td>2020-01-16</td>
-        </tr>
-        <tr>
-          <th>Escola Secundária de Benavente, Benavente</th>
-          <td>10A, 10B</td>
-          <td>2020-01-16</td>
-        </tr>
-        <tr>
-          <th>Escola Secundária de Macedo de Cavaleiros, Macedo de Cavaleiros</th>
-          <td>10B, 10C, 10E, 10F</td>
-          <td>2020-01-13</td>
-        </tr>
-        <tr>
-          <th>Escola Secundária de São Pedro da Cova, Gondomar</th>
-          <td>10A, 10B, 10TAS, 10TDG</td>
-          <td>2020-01-30</td>
-        </tr>
-        <tr>
-          <th>Escola Secundária de Valbom, Gondomar</th>
-          <td>10A, 10B, 10C, 10TIS/TD</td>
-          <td>2020-02-07</td>
-        </tr>
-        <tr>
-          <th>Escola Secundária do Castêlo da Maia, Maia</th>
-          <td>10A, 10H</td>
-          <td>2020-01-20, 2020-01-21</td>
-        </tr>
-        <tr>
-          <th>Escola secundária Dr. Julio Martins, Chaves</th>
-          <td>10A, 10B, 10C, 10F</td>
-          <td>2020-01-15</td>
-        </tr>
-      </tbody>
-    </table>
-    <figcaption><em>Turmas visitadas em cada escola pelo projecto CME</em></figcaption>
-</figure>
-
+<table border="1" class="dataframe" style="text-align: right;">
+  <caption><em>Turmas visitadas em cada escola pelo projecto CME</em></caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Escola</th>
+      <th>Turmas</th>
+      <th>Data(s)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Agrupamento de Escolas de Vale de Ovil, Baião</th>
+      <td>10E, 10F, 10G, 10H</td>
+      <td>2020-01-17</td>
+    </tr>
+    <tr>
+      <th>Escola Básica e Secundária Cunha Rivara, Arraiolos</th>
+      <td>10A, 10B</td>
+      <td>2020-01-30</td>
+    </tr>
+    <tr>
+      <th>Escola Secundária Carlos Amarante, Braga</th>
+      <td>10G, 10L, 10PEAC, 10PM, 10TD, 10TPI</td>
+      <td>2020-01-14</td>
+    </tr>
+    <tr>
+      <th>Escola Secundária D.Sancho II, Elvas</th>
+      <td>10H, 10I, 10J, 10L</td>
+      <td>2020-01-09</td>
+    </tr>
+    <tr>
+      <th>Escola Secundária José Régio, Vila do Conde</th>
+      <td>10CT2, 10CT6, 10LH3, 10SE1</td>
+      <td>2020-01-22</td>
+    </tr>
+    <tr>
+      <th>Escola Secundária Mouzinho da Silveira, Portalegre</th>
+      <td>10C, 10D</td>
+      <td>2020-01-23</td>
+    </tr>
+    <tr>
+      <th>Escola Secundária S.Lourenço, Portalegre</th>
+      <td>10A, 10B</td>
+      <td>2020-01-24</td>
+    </tr>
+    <tr>
+      <th>Escola Secundária da Azambuja, Azambuja</th>
+      <td>10A, 10B, 10C/10D, 10E, 10F, TOSORT</td>
+      <td>2020-02-17</td>
+    </tr>
+    <tr>
+      <th>Escola Secundária de Aljustrel, Aljustrel</th>
+      <td>101A, 104A</td>
+      <td>2020-01-21</td>
+    </tr>
+    <tr>
+      <th>Escola Secundária de Alpendorada, Marco de Canaveses</th>
+      <td>10D, 10E, 10TUR, 10TURTIE</td>
+      <td>2020-01-16</td>
+    </tr>
+    <tr>
+      <th>Escola Secundária de Benavente, Benavente</th>
+      <td>10A, 10B</td>
+      <td>2020-01-16</td>
+    </tr>
+    <tr>
+      <th>Escola Secundária de Macedo de Cavaleiros, Macedo de Cavaleiros</th>
+      <td>10B, 10C, 10E, 10F</td>
+      <td>2020-01-13</td>
+    </tr>
+    <tr>
+      <th>Escola Secundária de São Pedro da Cova, Gondomar</th>
+      <td>10A, 10B, 10TAS, 10TDG</td>
+      <td>2020-01-30</td>
+    </tr>
+    <tr>
+      <th>Escola Secundária de Valbom, Gondomar</th>
+      <td>10A, 10B, 10C, 10TIS/TD</td>
+      <td>2020-02-07</td>
+    </tr>
+    <tr>
+      <th>Escola Secundária do Castêlo da Maia, Maia</th>
+      <td>10A, 10H</td>
+      <td>2020-01-20, 2020-01-21</td>
+    </tr>
+    <tr>
+      <th>Escola secundária Dr. Julio Martins, Chaves</th>
+      <td>10A, 10B, 10C, 10F</td>
+      <td>2020-01-15</td>
+    </tr>
+  </tbody>
+</table>
+    
 <br>
 
 
@@ -336,35 +332,33 @@ Escola
 
 <br>
 
-<figure style="text-align:center">
-    <table style="border:1px solid black;margin-left:auto;margin-right:auto;" class="dataframe">
-      <thead>
-        <tr style="text-align: right;">
-          <th>Respostas</th>
-          <th>Projeto</th>
-          <th>Online</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <th>CME</th>
-          <th>Sim</th>
-          <td>32</td>
-        </tr>
-        <tr>
-          <th rowspan="2" valign="top">IoTP</th>
-          <th>Não</th>
-          <td>53</td>
-        </tr>
-        <tr>
-          <th>Sim</th>
-          <td>2</td>
-        </tr>
-      </tbody>
-    </table>
-    <figcaption><em>Número de inquéritos respondidos por professores</em></figcaption>
-</figure>
-
+<table border="1" class="dataframe">
+  <caption><em>Número de inquéritos respondidos por professores</em></caption>
+  <thead>
+    <tr style="text-align: right;">
+      <th>Respostas</th>
+      <th>Projeto</th>
+      <th>Online</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>CME</th>
+      <th>Sim</th>
+      <td>32</td>
+    </tr>
+    <tr>
+      <th rowspan="2" valign="top">IoTP</th>
+      <th>Não</th>
+      <td>53</td>
+    </tr>
+    <tr>
+      <th>Sim</th>
+      <td>2</td>
+    </tr>
+  </tbody>
+</table>
+    
 <br>
 
 Os professores que pertenciam aos conselhos de turma - independetemente do projeto - receberam um inquérito online para poderem responder caso quisessem.
