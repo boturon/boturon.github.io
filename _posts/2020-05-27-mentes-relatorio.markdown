@@ -373,7 +373,7 @@ Os professores que pertenciam aos conselhos de turma - independetemente do proje
 
 
 <h2 id="4">4. Encarregados de educação</h2>
-Escola
+
 Os encarregado de educação dos estudantes envolvidos no projeto IoTP receberam um inquérito de 16 páginas em papel.
 
 <br>
